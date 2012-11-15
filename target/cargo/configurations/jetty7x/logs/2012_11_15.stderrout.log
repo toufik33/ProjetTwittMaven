@@ -1,0 +1,17 @@
+2012-11-15 15:51:04.361:INFO:oejs.Server:jetty-7.6.7.v20120910
+2012-11-15 15:51:04.384:INFO:oejdp.ScanningAppProvider:Deployment monitor /auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/webapps at interval 1
+2012-11-15 15:51:04.391:INFO:oejd.DeploymentManager:Deployable added: /auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/webapps/cargocpc.war
+2012-11-15 15:51:04.426:INFO:oejw.WebInfConfiguration:Extract jar:file:/auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/webapps/cargocpc.war!/ to /tmp/jetty-0.0.0.0-8080-cargocpc.war-_cargocpc-any-/webapp
+2012-11-15 15:51:04.868:INFO:oejsh.ContextHandler:started o.e.j.w.WebAppContext{/cargocpc,file:/tmp/jetty-0.0.0.0-8080-cargocpc.war-_cargocpc-any-/webapp/},/auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/webapps/cargocpc.war
+2012-11-15 15:51:04.914:INFO:oejdp.ScanningAppProvider:Deployment monitor /auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/contexts at interval 1
+2012-11-15 15:51:04.915:INFO:oejd.DeploymentManager:Deployable added: /auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/contexts/ProjetTwittMaven.xml
+2012-11-15 15:51:05.094:INFO:oejsh.ContextHandler:started o.e.j.w.WebAppContext{/ProjetTwittMaven,file:/auto_home/atazouti/GIT/ProjetTwittMaven/target/ProjetTwittMaven-1.0-SNAPSHOT/},/auto_home/atazouti/GIT/ProjetTwittMaven/target/ProjetTwittMaven-1.0-SNAPSHOT.war
+2012-11-15 15:51:05.125:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8080
+2012-11-15 15:51:06.881:INFO:oejs.Server:Graceful shutdown SelectChannelConnector@0.0.0.0:8080
+2012-11-15 15:51:06.881:INFO:oejs.Server:Graceful shutdown o.e.j.w.WebAppContext{/cargocpc,file:/tmp/jetty-0.0.0.0-8080-cargocpc.war-_cargocpc-any-/webapp/},/auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/webapps/cargocpc.war
+2012-11-15 15:51:06.881:INFO:oejs.Server:Graceful shutdown o.e.j.w.WebAppContext{/ProjetTwittMaven,file:/auto_home/atazouti/GIT/ProjetTwittMaven/target/ProjetTwittMaven-1.0-SNAPSHOT/},/auto_home/atazouti/GIT/ProjetTwittMaven/target/ProjetTwittMaven-1.0-SNAPSHOT.war
+2012-11-15 15:51:07.910:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2012-11-15 15:51:07.910:INFO:oejsh.ContextHandler:stopped o.e.j.w.WebAppContext{/ProjetTwittMaven,file:/auto_home/atazouti/GIT/ProjetTwittMaven/target/ProjetTwittMaven-1.0-SNAPSHOT/},/auto_home/atazouti/GIT/ProjetTwittMaven/target/ProjetTwittMaven-1.0-SNAPSHOT.war
+2012-11-15 15:51:07.911:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2012-11-15 15:51:07.911:INFO:oejsh.ContextHandler:stopped o.e.j.w.WebAppContext{/cargocpc,file:/tmp/jetty-0.0.0.0-8080-cargocpc.war-_cargocpc-any-/webapp/},/auto_home/atazouti/GIT/ProjetTwittMaven/target/cargo/configurations/jetty7x/webapps/cargocpc.war
+2012-11-15 15:51:07.964:INFO:oejut.ShutdownThread:shutdown already commenced
